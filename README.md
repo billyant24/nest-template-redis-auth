@@ -26,7 +26,7 @@
 
 ## Description
 
-Nest [Nest](https://github.com/nestjs/nest) framework TypeScript starter template.
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter template.
 
 This template use REST API concept. The flow of simple [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) (Create, Read, Update and Delete) applications can be described using the following steps:
 
